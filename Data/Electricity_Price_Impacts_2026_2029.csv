@@ -1,0 +1,1001 @@
+State,Year,Sector,Metric,Number
+WY,2026,Residential,With Tax Incentives (¢/kwh),11.54
+WY,2026,Residential,Without Tax Incentives (¢/kwh),13.99
+WY,2026,Residential,Change (¢/kwh),2.45
+WY,2026,Residential,% Change,21.3
+WY,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),7.92
+WY,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.37
+WY,2026,Commercial & Industrial,Change (¢/kwh),2.45
+WY,2026,Commercial & Industrial,% Change,31.0
+WY,2026,Weighted Average,With Tax Incentives (¢/kwh),8.31
+WY,2026,Weighted Average,Without Tax Incentives (¢/kwh),10.76
+NM,2026,Residential,With Tax Incentives (¢/kwh),14.56
+NM,2026,Residential,Without Tax Incentives (¢/kwh),16.97
+NM,2026,Residential,Change (¢/kwh),2.41
+NM,2026,Residential,% Change,16.5
+NM,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),9.54
+NM,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.95
+NM,2026,Commercial & Industrial,Change (¢/kwh),2.41
+NM,2026,Commercial & Industrial,% Change,25.2
+NM,2026,Weighted Average,With Tax Incentives (¢/kwh),9.85
+NM,2026,Weighted Average,Without Tax Incentives (¢/kwh),12.25
+IL,2026,Residential,With Tax Incentives (¢/kwh),14.77
+IL,2026,Residential,Without Tax Incentives (¢/kwh),16.77
+IL,2026,Residential,Change (¢/kwh),1.99
+IL,2026,Residential,% Change,13.5
+IL,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),9.65
+IL,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.64
+IL,2026,Commercial & Industrial,Change (¢/kwh),1.99
+IL,2026,Commercial & Industrial,% Change,20.7
+IL,2026,Weighted Average,With Tax Incentives (¢/kwh),11.15
+IL,2026,Weighted Average,Without Tax Incentives (¢/kwh),13.15
+DC,2026,Residential,With Tax Incentives (¢/kwh),16.5
+DC,2026,Residential,Without Tax Incentives (¢/kwh),19.35
+DC,2026,Residential,Change (¢/kwh),2.85
+DC,2026,Residential,% Change,17.3
+DC,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),14.86
+DC,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),17.71
+DC,2026,Commercial & Industrial,Change (¢/kwh),2.85
+DC,2026,Commercial & Industrial,% Change,19.2
+DC,2026,Weighted Average,With Tax Incentives (¢/kwh),16.06
+DC,2026,Weighted Average,Without Tax Incentives (¢/kwh),18.91
+WA,2026,Residential,With Tax Incentives (¢/kwh),10.41
+WA,2026,Residential,Without Tax Incentives (¢/kwh),11.92
+WA,2026,Residential,Change (¢/kwh),1.51
+WA,2026,Residential,% Change,14.6
+WA,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),8.05
+WA,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.56
+WA,2026,Commercial & Industrial,Change (¢/kwh),1.51
+WA,2026,Commercial & Industrial,% Change,18.8
+WA,2026,Weighted Average,With Tax Incentives (¢/kwh),8.84
+WA,2026,Weighted Average,Without Tax Incentives (¢/kwh),10.36
+NC,2026,Residential,With Tax Incentives (¢/kwh),12.74
+NC,2026,Residential,Without Tax Incentives (¢/kwh),14.46
+NC,2026,Residential,Change (¢/kwh),1.72
+NC,2026,Residential,% Change,13.5
+NC,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),8.12
+NC,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.84
+NC,2026,Commercial & Industrial,Change (¢/kwh),1.72
+NC,2026,Commercial & Industrial,% Change,21.2
+NC,2026,Weighted Average,With Tax Incentives (¢/kwh),10.15
+NC,2026,Weighted Average,Without Tax Incentives (¢/kwh),11.88
+MO,2026,Residential,With Tax Incentives (¢/kwh),11.59
+MO,2026,Residential,Without Tax Incentives (¢/kwh),13.06
+MO,2026,Residential,Change (¢/kwh),1.47
+MO,2026,Residential,% Change,12.7
+MO,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),8.02
+MO,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.49
+MO,2026,Commercial & Industrial,Change (¢/kwh),1.47
+MO,2026,Commercial & Industrial,% Change,18.4
+MO,2026,Weighted Average,With Tax Incentives (¢/kwh),9.72
+MO,2026,Weighted Average,Without Tax Incentives (¢/kwh),11.2
+KS,2026,Residential,With Tax Incentives (¢/kwh),13.69
+KS,2026,Residential,Without Tax Incentives (¢/kwh),15.33
+KS,2026,Residential,Change (¢/kwh),1.64
+KS,2026,Residential,% Change,12.0
+KS,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),9.67
+KS,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.31
+KS,2026,Commercial & Industrial,Change (¢/kwh),1.64
+KS,2026,Commercial & Industrial,% Change,16.9
+KS,2026,Weighted Average,With Tax Incentives (¢/kwh),10.89
+KS,2026,Weighted Average,Without Tax Incentives (¢/kwh),12.52
+SC,2026,Residential,With Tax Incentives (¢/kwh),13.24
+SC,2026,Residential,Without Tax Incentives (¢/kwh),14.69
+SC,2026,Residential,Change (¢/kwh),1.45
+SC,2026,Residential,% Change,10.9
+SC,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),8.43
+SC,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.88
+SC,2026,Commercial & Industrial,Change (¢/kwh),1.45
+SC,2026,Commercial & Industrial,% Change,17.2
+SC,2026,Weighted Average,With Tax Incentives (¢/kwh),9.82
+SC,2026,Weighted Average,Without Tax Incentives (¢/kwh),11.27
+TN,2026,Residential,With Tax Incentives (¢/kwh),11.33
+TN,2026,Residential,Without Tax Incentives (¢/kwh),12.75
+TN,2026,Residential,Change (¢/kwh),1.42
+TN,2026,Residential,% Change,12.5
+TN,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),9.42
+TN,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.83
+TN,2026,Commercial & Industrial,Change (¢/kwh),1.42
+TN,2026,Commercial & Industrial,% Change,15.0
+TN,2026,Weighted Average,With Tax Incentives (¢/kwh),9.78
+TN,2026,Weighted Average,Without Tax Incentives (¢/kwh),11.2
+DE,2026,Residential,With Tax Incentives (¢/kwh),15.35
+DE,2026,Residential,Without Tax Incentives (¢/kwh),16.99
+DE,2026,Residential,Change (¢/kwh),1.64
+DE,2026,Residential,% Change,10.7
+DE,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),9.89
+DE,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.54
+DE,2026,Commercial & Industrial,Change (¢/kwh),1.64
+DE,2026,Commercial & Industrial,% Change,16.6
+DE,2026,Weighted Average,With Tax Incentives (¢/kwh),12.21
+DE,2026,Weighted Average,Without Tax Incentives (¢/kwh),13.85
+MD,2026,Residential,With Tax Incentives (¢/kwh),16.6
+MD,2026,Residential,Without Tax Incentives (¢/kwh),18.35
+MD,2026,Residential,Change (¢/kwh),1.75
+MD,2026,Residential,% Change,10.6
+MD,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),10.84
+MD,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),12.59
+MD,2026,Commercial & Industrial,Change (¢/kwh),1.75
+MD,2026,Commercial & Industrial,% Change,16.2
+MD,2026,Weighted Average,With Tax Incentives (¢/kwh),13.8
+MD,2026,Weighted Average,Without Tax Incentives (¢/kwh),15.55
+AZ,2026,Residential,With Tax Incentives (¢/kwh),14.06
+AZ,2026,Residential,Without Tax Incentives (¢/kwh),15.54
+AZ,2026,Residential,Change (¢/kwh),1.49
+AZ,2026,Residential,% Change,10.6
+AZ,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),10.09
+AZ,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.58
+AZ,2026,Commercial & Industrial,Change (¢/kwh),1.49
+AZ,2026,Commercial & Industrial,% Change,14.7
+AZ,2026,Weighted Average,With Tax Incentives (¢/kwh),11.99
+AZ,2026,Weighted Average,Without Tax Incentives (¢/kwh),13.48
+MN,2026,Residential,With Tax Incentives (¢/kwh),14.55
+MN,2026,Residential,Without Tax Incentives (¢/kwh),15.94
+MN,2026,Residential,Change (¢/kwh),1.4
+MN,2026,Residential,% Change,9.6
+MN,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),10.26
+MN,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.66
+MN,2026,Commercial & Industrial,Change (¢/kwh),1.4
+MN,2026,Commercial & Industrial,% Change,13.6
+MN,2026,Weighted Average,With Tax Incentives (¢/kwh),11.59
+MN,2026,Weighted Average,Without Tax Incentives (¢/kwh),12.99
+NE,2026,Residential,With Tax Incentives (¢/kwh),11.41
+NE,2026,Residential,Without Tax Incentives (¢/kwh),12.46
+NE,2026,Residential,Change (¢/kwh),1.04
+NE,2026,Residential,% Change,9.1
+NE,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),8.08
+NE,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.13
+NE,2026,Commercial & Industrial,Change (¢/kwh),1.04
+NE,2026,Commercial & Industrial,% Change,12.9
+NE,2026,Weighted Average,With Tax Incentives (¢/kwh),9.07
+NE,2026,Weighted Average,Without Tax Incentives (¢/kwh),10.11
+CA,2026,Residential,With Tax Incentives (¢/kwh),31.59
+CA,2026,Residential,Without Tax Incentives (¢/kwh),34.62
+CA,2026,Residential,Change (¢/kwh),3.03
+CA,2026,Residential,% Change,9.6
+CA,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),23.64
+CA,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),26.67
+CA,2026,Commercial & Industrial,Change (¢/kwh),3.03
+CA,2026,Commercial & Industrial,% Change,12.8
+CA,2026,Weighted Average,With Tax Incentives (¢/kwh),26.84
+CA,2026,Weighted Average,Without Tax Incentives (¢/kwh),29.87
+SD,2026,Residential,With Tax Incentives (¢/kwh),12.88
+SD,2026,Residential,Without Tax Incentives (¢/kwh),14.09
+SD,2026,Residential,Change (¢/kwh),1.21
+SD,2026,Residential,% Change,9.4
+SD,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),9.62
+SD,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.83
+SD,2026,Commercial & Industrial,Change (¢/kwh),1.21
+SD,2026,Commercial & Industrial,% Change,12.6
+SD,2026,Weighted Average,With Tax Incentives (¢/kwh),10.94
+SD,2026,Weighted Average,Without Tax Incentives (¢/kwh),12.15
+NJ,2026,Residential,With Tax Incentives (¢/kwh),19.63
+NJ,2026,Residential,Without Tax Incentives (¢/kwh),21.45
+NJ,2026,Residential,Change (¢/kwh),1.83
+NJ,2026,Residential,% Change,9.3
+NJ,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),14.07
+NJ,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),15.89
+NJ,2026,Commercial & Industrial,Change (¢/kwh),1.83
+NJ,2026,Commercial & Industrial,% Change,13.0
+NJ,2026,Weighted Average,With Tax Incentives (¢/kwh),16.74
+NJ,2026,Weighted Average,Without Tax Incentives (¢/kwh),18.56
+MS,2026,Residential,With Tax Incentives (¢/kwh),12.74
+MS,2026,Residential,Without Tax Incentives (¢/kwh),13.79
+MS,2026,Residential,Change (¢/kwh),1.05
+MS,2026,Residential,% Change,8.2
+MS,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),10.07
+MS,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.12
+MS,2026,Commercial & Industrial,Change (¢/kwh),1.05
+MS,2026,Commercial & Industrial,% Change,10.4
+MS,2026,Weighted Average,With Tax Incentives (¢/kwh),10.31
+MS,2026,Weighted Average,Without Tax Incentives (¢/kwh),11.36
+LA,2026,Residential,With Tax Incentives (¢/kwh),10.98
+LA,2026,Residential,Without Tax Incentives (¢/kwh),11.81
+LA,2026,Residential,Change (¢/kwh),0.82
+LA,2026,Residential,% Change,7.5
+LA,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),8.69
+LA,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.51
+LA,2026,Commercial & Industrial,Change (¢/kwh),0.82
+LA,2026,Commercial & Industrial,% Change,9.5
+LA,2026,Weighted Average,With Tax Incentives (¢/kwh),8.29
+LA,2026,Weighted Average,Without Tax Incentives (¢/kwh),9.11
+AR,2026,Residential,With Tax Incentives (¢/kwh),12.18
+AR,2026,Residential,Without Tax Incentives (¢/kwh),13.11
+AR,2026,Residential,Change (¢/kwh),0.93
+AR,2026,Residential,% Change,7.6
+AR,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),8.99
+AR,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.92
+AR,2026,Commercial & Industrial,Change (¢/kwh),0.93
+AR,2026,Commercial & Industrial,% Change,10.4
+AR,2026,Weighted Average,With Tax Incentives (¢/kwh),9.57
+AR,2026,Weighted Average,Without Tax Incentives (¢/kwh),10.5
+OK,2026,Residential,With Tax Incentives (¢/kwh),12.37
+OK,2026,Residential,Without Tax Incentives (¢/kwh),13.24
+OK,2026,Residential,Change (¢/kwh),0.87
+OK,2026,Residential,% Change,7.0
+OK,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),8.18
+OK,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.05
+OK,2026,Commercial & Industrial,Change (¢/kwh),0.87
+OK,2026,Commercial & Industrial,% Change,10.6
+OK,2026,Weighted Average,With Tax Incentives (¢/kwh),9.33
+OK,2026,Weighted Average,Without Tax Incentives (¢/kwh),10.2
+OH,2026,Residential,With Tax Incentives (¢/kwh),15.37
+OH,2026,Residential,Without Tax Incentives (¢/kwh),16.32
+OH,2026,Residential,Change (¢/kwh),0.95
+OH,2026,Residential,% Change,6.2
+OH,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),9.23
+OH,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.18
+OH,2026,Commercial & Industrial,Change (¢/kwh),0.95
+OH,2026,Commercial & Industrial,% Change,10.3
+OH,2026,Weighted Average,With Tax Incentives (¢/kwh),10.67
+OH,2026,Weighted Average,Without Tax Incentives (¢/kwh),11.63
+ND,2026,Residential,With Tax Incentives (¢/kwh),11.91
+ND,2026,Residential,Without Tax Incentives (¢/kwh),12.64
+ND,2026,Residential,Change (¢/kwh),0.72
+ND,2026,Residential,% Change,6.1
+ND,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),7.73
+ND,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),8.45
+ND,2026,Commercial & Industrial,Change (¢/kwh),0.72
+ND,2026,Commercial & Industrial,% Change,9.4
+ND,2026,Weighted Average,With Tax Incentives (¢/kwh),8.47
+ND,2026,Weighted Average,Without Tax Incentives (¢/kwh),9.2
+PA,2026,Residential,With Tax Incentives (¢/kwh),17.05
+PA,2026,Residential,Without Tax Incentives (¢/kwh),17.95
+PA,2026,Residential,Change (¢/kwh),0.91
+PA,2026,Residential,% Change,5.3
+PA,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),9.19
+PA,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.09
+PA,2026,Commercial & Industrial,Change (¢/kwh),0.91
+PA,2026,Commercial & Industrial,% Change,9.9
+PA,2026,Weighted Average,With Tax Incentives (¢/kwh),11.65
+PA,2026,Weighted Average,Without Tax Incentives (¢/kwh),12.55
+WI,2026,Residential,With Tax Incentives (¢/kwh),16.56
+WI,2026,Residential,Without Tax Incentives (¢/kwh),17.5
+WI,2026,Residential,Change (¢/kwh),0.93
+WI,2026,Residential,% Change,5.6
+WI,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),10.58
+WI,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.52
+WI,2026,Commercial & Industrial,Change (¢/kwh),0.93
+WI,2026,Commercial & Industrial,% Change,8.8
+WI,2026,Weighted Average,With Tax Incentives (¢/kwh),12.12
+WI,2026,Weighted Average,Without Tax Incentives (¢/kwh),13.05
+AL,2026,Residential,With Tax Incentives (¢/kwh),14.61
+AL,2026,Residential,Without Tax Incentives (¢/kwh),15.47
+AL,2026,Residential,Change (¢/kwh),0.86
+AL,2026,Residential,% Change,5.9
+AL,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),11.47
+AL,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),12.33
+AL,2026,Commercial & Industrial,Change (¢/kwh),0.86
+AL,2026,Commercial & Industrial,% Change,7.5
+AL,2026,Weighted Average,With Tax Incentives (¢/kwh),11.38
+AL,2026,Weighted Average,Without Tax Incentives (¢/kwh),12.24
+VA,2026,Residential,With Tax Incentives (¢/kwh),14.26
+VA,2026,Residential,Without Tax Incentives (¢/kwh),15.04
+VA,2026,Residential,Change (¢/kwh),0.78
+VA,2026,Residential,% Change,5.4
+VA,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),8.75
+VA,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.52
+VA,2026,Commercial & Industrial,Change (¢/kwh),0.78
+VA,2026,Commercial & Industrial,% Change,8.9
+VA,2026,Weighted Average,With Tax Incentives (¢/kwh),10.64
+VA,2026,Weighted Average,Without Tax Incentives (¢/kwh),11.41
+GA,2026,Residential,With Tax Incentives (¢/kwh),13.77
+GA,2026,Residential,Without Tax Incentives (¢/kwh),14.53
+GA,2026,Residential,Change (¢/kwh),0.77
+GA,2026,Residential,% Change,5.6
+GA,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),9.98
+GA,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.74
+GA,2026,Commercial & Industrial,Change (¢/kwh),0.77
+GA,2026,Commercial & Industrial,% Change,7.7
+GA,2026,Weighted Average,With Tax Incentives (¢/kwh),11.35
+GA,2026,Weighted Average,Without Tax Incentives (¢/kwh),12.11
+NV,2026,Residential,With Tax Incentives (¢/kwh),15.38
+NV,2026,Residential,Without Tax Incentives (¢/kwh),16.11
+NV,2026,Residential,Change (¢/kwh),0.73
+NV,2026,Residential,% Change,4.7
+NV,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),10.16
+NV,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.89
+NV,2026,Commercial & Industrial,Change (¢/kwh),0.73
+NV,2026,Commercial & Industrial,% Change,7.2
+NV,2026,Weighted Average,With Tax Incentives (¢/kwh),11.93
+NV,2026,Weighted Average,Without Tax Incentives (¢/kwh),12.66
+MT,2026,Residential,With Tax Incentives (¢/kwh),12.64
+MT,2026,Residential,Without Tax Incentives (¢/kwh),13.28
+MT,2026,Residential,Change (¢/kwh),0.64
+MT,2026,Residential,% Change,5.1
+MT,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),10.39
+MT,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.03
+MT,2026,Commercial & Industrial,Change (¢/kwh),0.64
+MT,2026,Commercial & Industrial,% Change,6.2
+MT,2026,Weighted Average,With Tax Incentives (¢/kwh),10.92
+MT,2026,Weighted Average,Without Tax Incentives (¢/kwh),11.56
+VT,2026,Residential,With Tax Incentives (¢/kwh),21.39
+VT,2026,Residential,Without Tax Incentives (¢/kwh),22.43
+VT,2026,Residential,Change (¢/kwh),1.04
+VT,2026,Residential,% Change,4.9
+VT,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),15.99
+VT,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),17.03
+VT,2026,Commercial & Industrial,Change (¢/kwh),1.04
+VT,2026,Commercial & Industrial,% Change,6.5
+VT,2026,Weighted Average,With Tax Incentives (¢/kwh),17.92
+VT,2026,Weighted Average,Without Tax Incentives (¢/kwh),18.96
+RI,2026,Residential,With Tax Incentives (¢/kwh),29.03
+RI,2026,Residential,Without Tax Incentives (¢/kwh),30.38
+RI,2026,Residential,Change (¢/kwh),1.35
+RI,2026,Residential,% Change,4.7
+RI,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),20.43
+RI,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),21.78
+RI,2026,Commercial & Industrial,Change (¢/kwh),1.35
+RI,2026,Commercial & Industrial,% Change,6.6
+RI,2026,Weighted Average,With Tax Incentives (¢/kwh),24.09
+RI,2026,Weighted Average,Without Tax Incentives (¢/kwh),25.44
+MA,2026,Residential,With Tax Incentives (¢/kwh),28.1
+MA,2026,Residential,Without Tax Incentives (¢/kwh),29.29
+MA,2026,Residential,Change (¢/kwh),1.2
+MA,2026,Residential,% Change,4.3
+MA,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),18.56
+MA,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),19.75
+MA,2026,Commercial & Industrial,Change (¢/kwh),1.2
+MA,2026,Commercial & Industrial,% Change,6.5
+MA,2026,Weighted Average,With Tax Incentives (¢/kwh),22.65
+MA,2026,Weighted Average,Without Tax Incentives (¢/kwh),23.85
+KY,2026,Residential,With Tax Incentives (¢/kwh),12.58
+KY,2026,Residential,Without Tax Incentives (¢/kwh),13.06
+KY,2026,Residential,Change (¢/kwh),0.49
+KY,2026,Residential,% Change,3.9
+KY,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),10.05
+KY,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.53
+KY,2026,Commercial & Industrial,Change (¢/kwh),0.49
+KY,2026,Commercial & Industrial,% Change,4.8
+KY,2026,Weighted Average,With Tax Incentives (¢/kwh),9.91
+KY,2026,Weighted Average,Without Tax Incentives (¢/kwh),10.4
+MI,2026,Residential,With Tax Incentives (¢/kwh),18.59
+MI,2026,Residential,Without Tax Incentives (¢/kwh),19.24
+MI,2026,Residential,Change (¢/kwh),0.65
+MI,2026,Residential,% Change,3.5
+MI,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),11.79
+MI,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),12.43
+MI,2026,Commercial & Industrial,Change (¢/kwh),0.65
+MI,2026,Commercial & Industrial,% Change,5.5
+MI,2026,Weighted Average,With Tax Incentives (¢/kwh),13.43
+MI,2026,Weighted Average,Without Tax Incentives (¢/kwh),14.07
+IA,2026,Residential,With Tax Incentives (¢/kwh),13.53
+IA,2026,Residential,Without Tax Incentives (¢/kwh),13.98
+IA,2026,Residential,Change (¢/kwh),0.45
+IA,2026,Residential,% Change,3.3
+IA,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),9.02
+IA,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.47
+IA,2026,Commercial & Industrial,Change (¢/kwh),0.45
+IA,2026,Commercial & Industrial,% Change,4.9
+IA,2026,Weighted Average,With Tax Incentives (¢/kwh),9.47
+IA,2026,Weighted Average,Without Tax Incentives (¢/kwh),9.92
+FL,2026,Residential,With Tax Incentives (¢/kwh),14.83
+FL,2026,Residential,Without Tax Incentives (¢/kwh),15.39
+FL,2026,Residential,Change (¢/kwh),0.56
+FL,2026,Residential,% Change,3.8
+FL,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),10.58
+FL,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.14
+FL,2026,Commercial & Industrial,Change (¢/kwh),0.56
+FL,2026,Commercial & Industrial,% Change,5.3
+FL,2026,Weighted Average,With Tax Incentives (¢/kwh),13.17
+FL,2026,Weighted Average,Without Tax Incentives (¢/kwh),13.73
+WV,2026,Residential,With Tax Incentives (¢/kwh),14.75
+WV,2026,Residential,Without Tax Incentives (¢/kwh),15.21
+WV,2026,Residential,Change (¢/kwh),0.46
+WV,2026,Residential,% Change,3.1
+WV,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),10.33
+WV,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.79
+WV,2026,Commercial & Industrial,Change (¢/kwh),0.46
+WV,2026,Commercial & Industrial,% Change,4.4
+WV,2026,Weighted Average,With Tax Incentives (¢/kwh),10.79
+WV,2026,Weighted Average,Without Tax Incentives (¢/kwh),11.25
+IN,2026,Residential,With Tax Incentives (¢/kwh),14.91
+IN,2026,Residential,Without Tax Incentives (¢/kwh),15.38
+IN,2026,Residential,Change (¢/kwh),0.47
+IN,2026,Residential,% Change,3.2
+IN,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),11.2
+IN,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.67
+IN,2026,Commercial & Industrial,Change (¢/kwh),0.47
+IN,2026,Commercial & Industrial,% Change,4.2
+IN,2026,Weighted Average,With Tax Incentives (¢/kwh),11.49
+IN,2026,Weighted Average,Without Tax Incentives (¢/kwh),11.96
+TX,2026,Residential,With Tax Incentives (¢/kwh),14.58
+TX,2026,Residential,Without Tax Incentives (¢/kwh),14.9
+TX,2026,Residential,Change (¢/kwh),0.32
+TX,2026,Residential,% Change,2.2
+TX,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),7.91
+TX,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),8.23
+TX,2026,Commercial & Industrial,Change (¢/kwh),0.32
+TX,2026,Commercial & Industrial,% Change,4.0
+TX,2026,Weighted Average,With Tax Incentives (¢/kwh),9.94
+TX,2026,Weighted Average,Without Tax Incentives (¢/kwh),10.25
+UT,2026,Residential,With Tax Incentives (¢/kwh),11.36
+UT,2026,Residential,Without Tax Incentives (¢/kwh),11.64
+UT,2026,Residential,Change (¢/kwh),0.28
+UT,2026,Residential,% Change,2.5
+UT,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),7.98
+UT,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),8.26
+UT,2026,Commercial & Industrial,Change (¢/kwh),0.28
+UT,2026,Commercial & Industrial,% Change,3.5
+UT,2026,Weighted Average,With Tax Incentives (¢/kwh),9.15
+UT,2026,Weighted Average,Without Tax Incentives (¢/kwh),9.43
+ID,2026,Residential,With Tax Incentives (¢/kwh),12.59
+ID,2026,Residential,Without Tax Incentives (¢/kwh),12.89
+ID,2026,Residential,Change (¢/kwh),0.3
+ID,2026,Residential,% Change,2.4
+ID,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),9.58
+ID,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.88
+ID,2026,Commercial & Industrial,Change (¢/kwh),0.3
+ID,2026,Commercial & Industrial,% Change,3.1
+ID,2026,Weighted Average,With Tax Incentives (¢/kwh),10.61
+ID,2026,Weighted Average,Without Tax Incentives (¢/kwh),10.91
+OR,2026,Residential,With Tax Incentives (¢/kwh),14.43
+OR,2026,Residential,Without Tax Incentives (¢/kwh),14.72
+OR,2026,Residential,Change (¢/kwh),0.29
+OR,2026,Residential,% Change,2.0
+OR,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),10.02
+OR,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.32
+OR,2026,Commercial & Industrial,Change (¢/kwh),0.29
+OR,2026,Commercial & Industrial,% Change,2.9
+OR,2026,Weighted Average,With Tax Incentives (¢/kwh),11.56
+OR,2026,Weighted Average,Without Tax Incentives (¢/kwh),11.85
+NY,2026,Residential,With Tax Incentives (¢/kwh),24.69
+NY,2026,Residential,Without Tax Incentives (¢/kwh),25.11
+NY,2026,Residential,Change (¢/kwh),0.42
+NY,2026,Residential,% Change,1.7
+NY,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),17.84
+NY,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),18.27
+NY,2026,Commercial & Industrial,Change (¢/kwh),0.42
+NY,2026,Commercial & Industrial,% Change,2.4
+NY,2026,Weighted Average,With Tax Incentives (¢/kwh),20.22
+NY,2026,Weighted Average,Without Tax Incentives (¢/kwh),20.65
+CT,2026,Residential,With Tax Incentives (¢/kwh),28.65
+CT,2026,Residential,Without Tax Incentives (¢/kwh),29.13
+CT,2026,Residential,Change (¢/kwh),0.48
+CT,2026,Residential,% Change,1.7
+CT,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),19.11
+CT,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),19.59
+CT,2026,Commercial & Industrial,Change (¢/kwh),0.48
+CT,2026,Commercial & Industrial,% Change,2.5
+CT,2026,Weighted Average,With Tax Incentives (¢/kwh),24.12
+CT,2026,Weighted Average,Without Tax Incentives (¢/kwh),24.59
+CO,2026,Residential,With Tax Incentives (¢/kwh),15.02
+CO,2026,Residential,Without Tax Incentives (¢/kwh),15.24
+CO,2026,Residential,Change (¢/kwh),0.22
+CO,2026,Residential,% Change,1.5
+CO,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),10.82
+CO,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.05
+CO,2026,Commercial & Industrial,Change (¢/kwh),0.22
+CO,2026,Commercial & Industrial,% Change,2.0
+CO,2026,Weighted Average,With Tax Incentives (¢/kwh),12.32
+CO,2026,Weighted Average,Without Tax Incentives (¢/kwh),12.54
+NH,2026,Residential,With Tax Incentives (¢/kwh),23.9
+NH,2026,Residential,Without Tax Incentives (¢/kwh),24.01
+NH,2026,Residential,Change (¢/kwh),0.11
+NH,2026,Residential,% Change,0.5
+NH,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),18.25
+NH,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),18.37
+NH,2026,Commercial & Industrial,Change (¢/kwh),0.11
+NH,2026,Commercial & Industrial,% Change,0.6
+NH,2026,Weighted Average,With Tax Incentives (¢/kwh),20.94
+NH,2026,Weighted Average,Without Tax Incentives (¢/kwh),21.05
+ME,2026,Residential,With Tax Incentives (¢/kwh),24.74
+ME,2026,Residential,Without Tax Incentives (¢/kwh),24.81
+ME,2026,Residential,Change (¢/kwh),0.07
+ME,2026,Residential,% Change,0.3
+ME,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),16.38
+ME,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),16.45
+ME,2026,Commercial & Industrial,Change (¢/kwh),0.07
+ME,2026,Commercial & Industrial,% Change,0.5
+ME,2026,Weighted Average,With Tax Incentives (¢/kwh),20.05
+ME,2026,Weighted Average,Without Tax Incentives (¢/kwh),20.13
+US,2026,Residential,With Tax Incentives (¢/kwh),16.06
+US,2026,Residential,Without Tax Incentives (¢/kwh),17.13
+US,2026,Residential,Change (¢/kwh),1.07
+US,2026,Residential,% Change,6.7
+US,2026,Commercial & Industrial,With Tax Incentives (¢/kwh),10.99
+US,2026,Commercial & Industrial,Without Tax Incentives (¢/kwh),12.06
+US,2026,Commercial & Industrial,Change (¢/kwh),1.07
+US,2026,Commercial & Industrial,% Change,9.7
+US,2026,Weighted Average,With Tax Incentives (¢/kwh),12.66
+US,2026,Weighted Average,Without Tax Incentives (¢/kwh),13.73
+WY,2029,Residential,With Tax Incentives (¢/kwh),11.23
+WY,2029,Residential,Without Tax Incentives (¢/kwh),13.6
+WY,2029,Residential,Change (¢/kwh),2.37
+WY,2029,Residential,% Change,21.1
+WY,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),7.73
+WY,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.1
+WY,2029,Commercial & Industrial,Change (¢/kwh),2.37
+WY,2029,Commercial & Industrial,% Change,30.6
+WY,2029,Weighted Average,With Tax Incentives (¢/kwh),8.11
+WY,2029,Weighted Average,Without Tax Incentives (¢/kwh),10.48
+NM,2029,Residential,With Tax Incentives (¢/kwh),14.57
+NM,2029,Residential,Without Tax Incentives (¢/kwh),16.97
+NM,2029,Residential,Change (¢/kwh),2.4
+NM,2029,Residential,% Change,16.5
+NM,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),9.69
+NM,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),12.09
+NM,2029,Commercial & Industrial,Change (¢/kwh),2.4
+NM,2029,Commercial & Industrial,% Change,24.8
+NM,2029,Weighted Average,With Tax Incentives (¢/kwh),9.99
+NM,2029,Weighted Average,Without Tax Incentives (¢/kwh),12.39
+IL,2029,Residential,With Tax Incentives (¢/kwh),14.9
+IL,2029,Residential,Without Tax Incentives (¢/kwh),17.74
+IL,2029,Residential,Change (¢/kwh),2.84
+IL,2029,Residential,% Change,19.1
+IL,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),9.86
+IL,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),12.71
+IL,2029,Commercial & Industrial,Change (¢/kwh),2.84
+IL,2029,Commercial & Industrial,% Change,28.8
+IL,2029,Weighted Average,With Tax Incentives (¢/kwh),11.34
+IL,2029,Weighted Average,Without Tax Incentives (¢/kwh),14.18
+DC,2029,Residential,With Tax Incentives (¢/kwh),20.32
+DC,2029,Residential,Without Tax Incentives (¢/kwh),20.74
+DC,2029,Residential,Change (¢/kwh),0.41
+DC,2029,Residential,% Change,2.0
+DC,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),18.71
+DC,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),19.12
+DC,2029,Commercial & Industrial,Change (¢/kwh),0.41
+DC,2029,Commercial & Industrial,% Change,2.2
+DC,2029,Weighted Average,With Tax Incentives (¢/kwh),19.89
+DC,2029,Weighted Average,Without Tax Incentives (¢/kwh),20.3
+WA,2029,Residential,With Tax Incentives (¢/kwh),10.27
+WA,2029,Residential,Without Tax Incentives (¢/kwh),11.33
+WA,2029,Residential,Change (¢/kwh),1.05
+WA,2029,Residential,% Change,10.2
+WA,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),7.99
+WA,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.04
+WA,2029,Commercial & Industrial,Change (¢/kwh),1.05
+WA,2029,Commercial & Industrial,% Change,13.2
+WA,2029,Weighted Average,With Tax Incentives (¢/kwh),8.76
+WA,2029,Weighted Average,Without Tax Incentives (¢/kwh),9.81
+NC,2029,Residential,With Tax Incentives (¢/kwh),12.41
+NC,2029,Residential,Without Tax Incentives (¢/kwh),14.2
+NC,2029,Residential,Change (¢/kwh),1.79
+NC,2029,Residential,% Change,14.4
+NC,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),7.92
+NC,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.71
+NC,2029,Commercial & Industrial,Change (¢/kwh),1.79
+NC,2029,Commercial & Industrial,% Change,22.6
+NC,2029,Weighted Average,With Tax Incentives (¢/kwh),9.9
+NC,2029,Weighted Average,Without Tax Incentives (¢/kwh),11.69
+MO,2029,Residential,With Tax Incentives (¢/kwh),11.35
+MO,2029,Residential,Without Tax Incentives (¢/kwh),12.82
+MO,2029,Residential,Change (¢/kwh),1.46
+MO,2029,Residential,% Change,12.9
+MO,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),7.85
+MO,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.32
+MO,2029,Commercial & Industrial,Change (¢/kwh),1.46
+MO,2029,Commercial & Industrial,% Change,18.7
+MO,2029,Weighted Average,With Tax Incentives (¢/kwh),9.53
+MO,2029,Weighted Average,Without Tax Incentives (¢/kwh),10.99
+KS,2029,Residential,With Tax Incentives (¢/kwh),14.39
+KS,2029,Residential,Without Tax Incentives (¢/kwh),15.61
+KS,2029,Residential,Change (¢/kwh),1.22
+KS,2029,Residential,% Change,8.5
+KS,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),10.44
+KS,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.66
+KS,2029,Commercial & Industrial,Change (¢/kwh),1.22
+KS,2029,Commercial & Industrial,% Change,11.7
+KS,2029,Weighted Average,With Tax Incentives (¢/kwh),11.63
+KS,2029,Weighted Average,Without Tax Incentives (¢/kwh),12.85
+SC,2029,Residential,With Tax Incentives (¢/kwh),13.04
+SC,2029,Residential,Without Tax Incentives (¢/kwh),14.47
+SC,2029,Residential,Change (¢/kwh),1.42
+SC,2029,Residential,% Change,10.9
+SC,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),8.36
+SC,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.78
+SC,2029,Commercial & Industrial,Change (¢/kwh),1.42
+SC,2029,Commercial & Industrial,% Change,17.0
+SC,2029,Weighted Average,With Tax Incentives (¢/kwh),9.71
+SC,2029,Weighted Average,Without Tax Incentives (¢/kwh),11.13
+TN,2029,Residential,With Tax Incentives (¢/kwh),10.99
+TN,2029,Residential,Without Tax Incentives (¢/kwh),12.69
+TN,2029,Residential,Change (¢/kwh),1.7
+TN,2029,Residential,% Change,15.4
+TN,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),9.11
+TN,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.8
+TN,2029,Commercial & Industrial,Change (¢/kwh),1.7
+TN,2029,Commercial & Industrial,% Change,18.6
+TN,2029,Weighted Average,With Tax Incentives (¢/kwh),9.47
+TN,2029,Weighted Average,Without Tax Incentives (¢/kwh),11.16
+DE,2029,Residential,With Tax Incentives (¢/kwh),15.21
+DE,2029,Residential,Without Tax Incentives (¢/kwh),17.08
+DE,2029,Residential,Change (¢/kwh),1.87
+DE,2029,Residential,% Change,12.3
+DE,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),9.85
+DE,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.73
+DE,2029,Commercial & Industrial,Change (¢/kwh),1.87
+DE,2029,Commercial & Industrial,% Change,19.0
+DE,2029,Weighted Average,With Tax Incentives (¢/kwh),12.13
+DE,2029,Weighted Average,Without Tax Incentives (¢/kwh),14.0
+MD,2029,Residential,With Tax Incentives (¢/kwh),16.94
+MD,2029,Residential,Without Tax Incentives (¢/kwh),19.29
+MD,2029,Residential,Change (¢/kwh),2.35
+MD,2029,Residential,% Change,13.9
+MD,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),11.27
+MD,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),13.62
+MD,2029,Commercial & Industrial,Change (¢/kwh),2.35
+MD,2029,Commercial & Industrial,% Change,20.8
+MD,2029,Weighted Average,With Tax Incentives (¢/kwh),14.18
+MD,2029,Weighted Average,Without Tax Incentives (¢/kwh),16.53
+AZ,2029,Residential,With Tax Incentives (¢/kwh),13.5
+AZ,2029,Residential,Without Tax Incentives (¢/kwh),15.04
+AZ,2029,Residential,Change (¢/kwh),1.54
+AZ,2029,Residential,% Change,11.4
+AZ,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),9.67
+AZ,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.21
+AZ,2029,Commercial & Industrial,Change (¢/kwh),1.54
+AZ,2029,Commercial & Industrial,% Change,15.9
+AZ,2029,Weighted Average,With Tax Incentives (¢/kwh),11.5
+AZ,2029,Weighted Average,Without Tax Incentives (¢/kwh),13.04
+MN,2029,Residential,With Tax Incentives (¢/kwh),14.36
+MN,2029,Residential,Without Tax Incentives (¢/kwh),15.85
+MN,2029,Residential,Change (¢/kwh),1.49
+MN,2029,Residential,% Change,10.4
+MN,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),10.15
+MN,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.64
+MN,2029,Commercial & Industrial,Change (¢/kwh),1.49
+MN,2029,Commercial & Industrial,% Change,14.7
+MN,2029,Weighted Average,With Tax Incentives (¢/kwh),11.46
+MN,2029,Weighted Average,Without Tax Incentives (¢/kwh),12.95
+NE,2029,Residential,With Tax Incentives (¢/kwh),11.29
+NE,2029,Residential,Without Tax Incentives (¢/kwh),12.33
+NE,2029,Residential,Change (¢/kwh),1.05
+NE,2029,Residential,% Change,9.3
+NE,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),8.04
+NE,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.09
+NE,2029,Commercial & Industrial,Change (¢/kwh),1.05
+NE,2029,Commercial & Industrial,% Change,13.1
+NE,2029,Weighted Average,With Tax Incentives (¢/kwh),9.0
+NE,2029,Weighted Average,Without Tax Incentives (¢/kwh),10.05
+CA,2029,Residential,With Tax Incentives (¢/kwh),31.65
+CA,2029,Residential,Without Tax Incentives (¢/kwh),34.42
+CA,2029,Residential,Change (¢/kwh),2.77
+CA,2029,Residential,% Change,8.8
+CA,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),23.93
+CA,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),26.71
+CA,2029,Commercial & Industrial,Change (¢/kwh),2.77
+CA,2029,Commercial & Industrial,% Change,11.6
+CA,2029,Weighted Average,With Tax Incentives (¢/kwh),27.04
+CA,2029,Weighted Average,Without Tax Incentives (¢/kwh),29.81
+SD,2029,Residential,With Tax Incentives (¢/kwh),12.61
+SD,2029,Residential,Without Tax Incentives (¢/kwh),13.77
+SD,2029,Residential,Change (¢/kwh),1.16
+SD,2029,Residential,% Change,9.2
+SD,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),9.44
+SD,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.61
+SD,2029,Commercial & Industrial,Change (¢/kwh),1.16
+SD,2029,Commercial & Industrial,% Change,12.3
+SD,2029,Weighted Average,With Tax Incentives (¢/kwh),10.72
+SD,2029,Weighted Average,Without Tax Incentives (¢/kwh),11.89
+NJ,2029,Residential,With Tax Incentives (¢/kwh),18.43
+NJ,2029,Residential,Without Tax Incentives (¢/kwh),20.9
+NJ,2029,Residential,Change (¢/kwh),2.47
+NJ,2029,Residential,% Change,13.4
+NJ,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),12.97
+NJ,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),15.44
+NJ,2029,Commercial & Industrial,Change (¢/kwh),2.47
+NJ,2029,Commercial & Industrial,% Change,19.1
+NJ,2029,Weighted Average,With Tax Incentives (¢/kwh),15.59
+NJ,2029,Weighted Average,Without Tax Incentives (¢/kwh),18.06
+MS,2029,Residential,With Tax Incentives (¢/kwh),12.51
+MS,2029,Residential,Without Tax Incentives (¢/kwh),13.64
+MS,2029,Residential,Change (¢/kwh),1.14
+MS,2029,Residential,% Change,9.1
+MS,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),9.89
+MS,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.03
+MS,2029,Commercial & Industrial,Change (¢/kwh),1.14
+MS,2029,Commercial & Industrial,% Change,11.5
+MS,2029,Weighted Average,With Tax Incentives (¢/kwh),10.13
+MS,2029,Weighted Average,Without Tax Incentives (¢/kwh),11.27
+LA,2029,Residential,With Tax Incentives (¢/kwh),10.8
+LA,2029,Residential,Without Tax Incentives (¢/kwh),11.67
+LA,2029,Residential,Change (¢/kwh),0.87
+LA,2029,Residential,% Change,8.0
+LA,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),8.56
+LA,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.43
+LA,2029,Commercial & Industrial,Change (¢/kwh),0.87
+LA,2029,Commercial & Industrial,% Change,10.2
+LA,2029,Weighted Average,With Tax Incentives (¢/kwh),8.17
+LA,2029,Weighted Average,Without Tax Incentives (¢/kwh),9.04
+AR,2029,Residential,With Tax Incentives (¢/kwh),11.86
+AR,2029,Residential,Without Tax Incentives (¢/kwh),12.98
+AR,2029,Residential,Change (¢/kwh),1.12
+AR,2029,Residential,% Change,9.4
+AR,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),8.75
+AR,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.87
+AR,2029,Commercial & Industrial,Change (¢/kwh),1.12
+AR,2029,Commercial & Industrial,% Change,12.8
+AR,2029,Weighted Average,With Tax Incentives (¢/kwh),9.32
+AR,2029,Weighted Average,Without Tax Incentives (¢/kwh),10.43
+OK,2029,Residential,With Tax Incentives (¢/kwh),12.06
+OK,2029,Residential,Without Tax Incentives (¢/kwh),13.11
+OK,2029,Residential,Change (¢/kwh),1.05
+OK,2029,Residential,% Change,8.7
+OK,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),7.97
+OK,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.02
+OK,2029,Commercial & Industrial,Change (¢/kwh),1.05
+OK,2029,Commercial & Industrial,% Change,13.2
+OK,2029,Weighted Average,With Tax Incentives (¢/kwh),9.09
+OK,2029,Weighted Average,Without Tax Incentives (¢/kwh),10.14
+OH,2029,Residential,With Tax Incentives (¢/kwh),14.94
+OH,2029,Residential,Without Tax Incentives (¢/kwh),15.49
+OH,2029,Residential,Change (¢/kwh),0.56
+OH,2029,Residential,% Change,3.7
+OH,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),8.92
+OH,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.48
+OH,2029,Commercial & Industrial,Change (¢/kwh),0.56
+OH,2029,Commercial & Industrial,% Change,6.2
+OH,2029,Weighted Average,With Tax Incentives (¢/kwh),10.34
+OH,2029,Weighted Average,Without Tax Incentives (¢/kwh),10.9
+ND,2029,Residential,With Tax Incentives (¢/kwh),11.7
+ND,2029,Residential,Without Tax Incentives (¢/kwh),12.37
+ND,2029,Residential,Change (¢/kwh),0.67
+ND,2029,Residential,% Change,5.8
+ND,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),7.62
+ND,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),8.29
+ND,2029,Commercial & Industrial,Change (¢/kwh),0.67
+ND,2029,Commercial & Industrial,% Change,8.8
+ND,2029,Weighted Average,With Tax Incentives (¢/kwh),8.35
+ND,2029,Weighted Average,Without Tax Incentives (¢/kwh),9.02
+PA,2029,Residential,With Tax Incentives (¢/kwh),16.73
+PA,2029,Residential,Without Tax Incentives (¢/kwh),17.66
+PA,2029,Residential,Change (¢/kwh),0.93
+PA,2029,Residential,% Change,5.6
+PA,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),9.02
+PA,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.95
+PA,2029,Commercial & Industrial,Change (¢/kwh),0.93
+PA,2029,Commercial & Industrial,% Change,10.3
+PA,2029,Weighted Average,With Tax Incentives (¢/kwh),11.43
+PA,2029,Weighted Average,Without Tax Incentives (¢/kwh),12.36
+WI,2029,Residential,With Tax Incentives (¢/kwh),16.28
+WI,2029,Residential,Without Tax Incentives (¢/kwh),17.25
+WI,2029,Residential,Change (¢/kwh),0.97
+WI,2029,Residential,% Change,6.0
+WI,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),10.4
+WI,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.37
+WI,2029,Commercial & Industrial,Change (¢/kwh),0.97
+WI,2029,Commercial & Industrial,% Change,9.4
+WI,2029,Weighted Average,With Tax Incentives (¢/kwh),11.9
+WI,2029,Weighted Average,Without Tax Incentives (¢/kwh),12.88
+AL,2029,Residential,With Tax Incentives (¢/kwh),14.37
+AL,2029,Residential,Without Tax Incentives (¢/kwh),15.28
+AL,2029,Residential,Change (¢/kwh),0.9
+AL,2029,Residential,% Change,6.3
+AL,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),11.31
+AL,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),12.21
+AL,2029,Commercial & Industrial,Change (¢/kwh),0.9
+AL,2029,Commercial & Industrial,% Change,8.0
+AL,2029,Weighted Average,With Tax Incentives (¢/kwh),11.22
+AL,2029,Weighted Average,Without Tax Incentives (¢/kwh),12.12
+VA,2029,Residential,With Tax Incentives (¢/kwh),13.93
+VA,2029,Residential,Without Tax Incentives (¢/kwh),14.8
+VA,2029,Residential,Change (¢/kwh),0.87
+VA,2029,Residential,% Change,6.2
+VA,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),8.59
+VA,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.45
+VA,2029,Commercial & Industrial,Change (¢/kwh),0.87
+VA,2029,Commercial & Industrial,% Change,10.1
+VA,2029,Weighted Average,With Tax Incentives (¢/kwh),10.42
+VA,2029,Weighted Average,Without Tax Incentives (¢/kwh),11.29
+GA,2029,Residential,With Tax Incentives (¢/kwh),13.58
+GA,2029,Residential,Without Tax Incentives (¢/kwh),14.35
+GA,2029,Residential,Change (¢/kwh),0.77
+GA,2029,Residential,% Change,5.7
+GA,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),9.88
+GA,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.65
+GA,2029,Commercial & Industrial,Change (¢/kwh),0.77
+GA,2029,Commercial & Industrial,% Change,7.8
+GA,2029,Weighted Average,With Tax Incentives (¢/kwh),11.22
+GA,2029,Weighted Average,Without Tax Incentives (¢/kwh),11.99
+NV,2029,Residential,With Tax Incentives (¢/kwh),14.99
+NV,2029,Residential,Without Tax Incentives (¢/kwh),15.76
+NV,2029,Residential,Change (¢/kwh),0.77
+NV,2029,Residential,% Change,5.1
+NV,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),9.94
+NV,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.71
+NV,2029,Commercial & Industrial,Change (¢/kwh),0.77
+NV,2029,Commercial & Industrial,% Change,7.7
+NV,2029,Weighted Average,With Tax Incentives (¢/kwh),11.65
+NV,2029,Weighted Average,Without Tax Incentives (¢/kwh),12.42
+MT,2029,Residential,With Tax Incentives (¢/kwh),12.36
+MT,2029,Residential,Without Tax Incentives (¢/kwh),12.97
+MT,2029,Residential,Change (¢/kwh),0.61
+MT,2029,Residential,% Change,4.9
+MT,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),10.17
+MT,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.78
+MT,2029,Commercial & Industrial,Change (¢/kwh),0.61
+MT,2029,Commercial & Industrial,% Change,6.0
+MT,2029,Weighted Average,With Tax Incentives (¢/kwh),10.69
+MT,2029,Weighted Average,Without Tax Incentives (¢/kwh),11.3
+VT,2029,Residential,With Tax Incentives (¢/kwh),21.07
+VT,2029,Residential,Without Tax Incentives (¢/kwh),22.25
+VT,2029,Residential,Change (¢/kwh),1.17
+VT,2029,Residential,% Change,5.6
+VT,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),15.77
+VT,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),16.94
+VT,2029,Commercial & Industrial,Change (¢/kwh),1.17
+VT,2029,Commercial & Industrial,% Change,7.4
+VT,2029,Weighted Average,With Tax Incentives (¢/kwh),17.66
+VT,2029,Weighted Average,Without Tax Incentives (¢/kwh),18.83
+RI,2029,Residential,With Tax Incentives (¢/kwh),28.58
+RI,2029,Residential,Without Tax Incentives (¢/kwh),31.08
+RI,2029,Residential,Change (¢/kwh),2.49
+RI,2029,Residential,% Change,8.7
+RI,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),20.13
+RI,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),22.63
+RI,2029,Commercial & Industrial,Change (¢/kwh),2.49
+RI,2029,Commercial & Industrial,% Change,12.4
+RI,2029,Weighted Average,With Tax Incentives (¢/kwh),23.72
+RI,2029,Weighted Average,Without Tax Incentives (¢/kwh),26.22
+MA,2029,Residential,With Tax Incentives (¢/kwh),27.92
+MA,2029,Residential,Without Tax Incentives (¢/kwh),29.29
+MA,2029,Residential,Change (¢/kwh),1.37
+MA,2029,Residential,% Change,4.9
+MA,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),18.54
+MA,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),19.92
+MA,2029,Commercial & Industrial,Change (¢/kwh),1.37
+MA,2029,Commercial & Industrial,% Change,7.4
+MA,2029,Weighted Average,With Tax Incentives (¢/kwh),22.57
+MA,2029,Weighted Average,Without Tax Incentives (¢/kwh),23.94
+KY,2029,Residential,With Tax Incentives (¢/kwh),12.09
+KY,2029,Residential,Without Tax Incentives (¢/kwh),12.97
+KY,2029,Residential,Change (¢/kwh),0.88
+KY,2029,Residential,% Change,7.3
+KY,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),9.61
+KY,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.49
+KY,2029,Commercial & Industrial,Change (¢/kwh),0.88
+KY,2029,Commercial & Industrial,% Change,9.2
+KY,2029,Weighted Average,With Tax Incentives (¢/kwh),9.48
+KY,2029,Weighted Average,Without Tax Incentives (¢/kwh),10.36
+MI,2029,Residential,With Tax Incentives (¢/kwh),18.27
+MI,2029,Residential,Without Tax Incentives (¢/kwh),18.9
+MI,2029,Residential,Change (¢/kwh),0.64
+MI,2029,Residential,% Change,3.5
+MI,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),11.56
+MI,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),12.19
+MI,2029,Commercial & Industrial,Change (¢/kwh),0.64
+MI,2029,Commercial & Industrial,% Change,5.5
+MI,2029,Weighted Average,With Tax Incentives (¢/kwh),13.18
+MI,2029,Weighted Average,Without Tax Incentives (¢/kwh),13.81
+IA,2029,Residential,With Tax Incentives (¢/kwh),13.35
+IA,2029,Residential,Without Tax Incentives (¢/kwh),13.75
+IA,2029,Residential,Change (¢/kwh),0.4
+IA,2029,Residential,% Change,3.0
+IA,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),8.94
+IA,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.34
+IA,2029,Commercial & Industrial,Change (¢/kwh),0.4
+IA,2029,Commercial & Industrial,% Change,4.5
+IA,2029,Weighted Average,With Tax Incentives (¢/kwh),9.38
+IA,2029,Weighted Average,Without Tax Incentives (¢/kwh),9.78
+FL,2029,Residential,With Tax Incentives (¢/kwh),14.69
+FL,2029,Residential,Without Tax Incentives (¢/kwh),15.26
+FL,2029,Residential,Change (¢/kwh),0.57
+FL,2029,Residential,% Change,3.9
+FL,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),10.54
+FL,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.12
+FL,2029,Commercial & Industrial,Change (¢/kwh),0.57
+FL,2029,Commercial & Industrial,% Change,5.4
+FL,2029,Weighted Average,With Tax Incentives (¢/kwh),13.07
+FL,2029,Weighted Average,Without Tax Incentives (¢/kwh),13.64
+WV,2029,Residential,With Tax Incentives (¢/kwh),14.34
+WV,2029,Residential,Without Tax Incentives (¢/kwh),15.02
+WV,2029,Residential,Change (¢/kwh),0.67
+WV,2029,Residential,% Change,4.7
+WV,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),10.01
+WV,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.69
+WV,2029,Commercial & Industrial,Change (¢/kwh),0.67
+WV,2029,Commercial & Industrial,% Change,6.7
+WV,2029,Weighted Average,With Tax Incentives (¢/kwh),10.46
+WV,2029,Weighted Average,Without Tax Incentives (¢/kwh),11.14
+IN,2029,Residential,With Tax Incentives (¢/kwh),14.55
+IN,2029,Residential,Without Tax Incentives (¢/kwh),15.25
+IN,2029,Residential,Change (¢/kwh),0.7
+IN,2029,Residential,% Change,4.8
+IN,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),10.9
+IN,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.6
+IN,2029,Commercial & Industrial,Change (¢/kwh),0.7
+IN,2029,Commercial & Industrial,% Change,6.4
+IN,2029,Weighted Average,With Tax Incentives (¢/kwh),11.19
+IN,2029,Weighted Average,Without Tax Incentives (¢/kwh),11.89
+TX,2029,Residential,With Tax Incentives (¢/kwh),14.35
+TX,2029,Residential,Without Tax Incentives (¢/kwh),14.76
+TX,2029,Residential,Change (¢/kwh),0.4
+TX,2029,Residential,% Change,2.8
+TX,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),7.86
+TX,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),8.26
+TX,2029,Commercial & Industrial,Change (¢/kwh),0.4
+TX,2029,Commercial & Industrial,% Change,5.1
+TX,2029,Weighted Average,With Tax Incentives (¢/kwh),9.83
+TX,2029,Weighted Average,Without Tax Incentives (¢/kwh),10.23
+UT,2029,Residential,With Tax Incentives (¢/kwh),11.39
+UT,2029,Residential,Without Tax Incentives (¢/kwh),11.77
+UT,2029,Residential,Change (¢/kwh),0.38
+UT,2029,Residential,% Change,3.3
+UT,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),8.13
+UT,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),8.51
+UT,2029,Commercial & Industrial,Change (¢/kwh),0.38
+UT,2029,Commercial & Industrial,% Change,4.6
+UT,2029,Weighted Average,With Tax Incentives (¢/kwh),9.26
+UT,2029,Weighted Average,Without Tax Incentives (¢/kwh),9.63
+ID,2029,Residential,With Tax Incentives (¢/kwh),12.21
+ID,2029,Residential,Without Tax Incentives (¢/kwh),12.54
+ID,2029,Residential,Change (¢/kwh),0.34
+ID,2029,Residential,% Change,2.7
+ID,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),9.28
+ID,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),9.62
+ID,2029,Commercial & Industrial,Change (¢/kwh),0.34
+ID,2029,Commercial & Industrial,% Change,3.6
+ID,2029,Weighted Average,With Tax Incentives (¢/kwh),10.28
+ID,2029,Weighted Average,Without Tax Incentives (¢/kwh),10.62
+OR,2029,Residential,With Tax Incentives (¢/kwh),14.09
+OR,2029,Residential,Without Tax Incentives (¢/kwh),14.41
+OR,2029,Residential,Change (¢/kwh),0.32
+OR,2029,Residential,% Change,2.3
+OR,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),9.83
+OR,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),10.15
+OR,2029,Commercial & Industrial,Change (¢/kwh),0.32
+OR,2029,Commercial & Industrial,% Change,3.2
+OR,2029,Weighted Average,With Tax Incentives (¢/kwh),11.31
+OR,2029,Weighted Average,Without Tax Incentives (¢/kwh),11.63
+NY,2029,Residential,With Tax Incentives (¢/kwh),24.34
+NY,2029,Residential,Without Tax Incentives (¢/kwh),25.17
+NY,2029,Residential,Change (¢/kwh),0.83
+NY,2029,Residential,% Change,3.4
+NY,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),17.59
+NY,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),18.41
+NY,2029,Commercial & Industrial,Change (¢/kwh),0.83
+NY,2029,Commercial & Industrial,% Change,4.7
+NY,2029,Weighted Average,With Tax Incentives (¢/kwh),19.93
+NY,2029,Weighted Average,Without Tax Incentives (¢/kwh),20.76
+CT,2029,Residential,With Tax Incentives (¢/kwh),27.71
+CT,2029,Residential,Without Tax Incentives (¢/kwh),29.0
+CT,2029,Residential,Change (¢/kwh),1.28
+CT,2029,Residential,% Change,4.6
+CT,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),18.34
+CT,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),19.62
+CT,2029,Commercial & Industrial,Change (¢/kwh),1.28
+CT,2029,Commercial & Industrial,% Change,7.0
+CT,2029,Weighted Average,With Tax Incentives (¢/kwh),23.26
+CT,2029,Weighted Average,Without Tax Incentives (¢/kwh),24.54
+CO,2029,Residential,With Tax Incentives (¢/kwh),14.79
+CO,2029,Residential,Without Tax Incentives (¢/kwh),15.07
+CO,2029,Residential,Change (¢/kwh),0.28
+CO,2029,Residential,% Change,1.9
+CO,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),10.72
+CO,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),11.0
+CO,2029,Commercial & Industrial,Change (¢/kwh),0.28
+CO,2029,Commercial & Industrial,% Change,2.6
+CO,2029,Weighted Average,With Tax Incentives (¢/kwh),12.16
+CO,2029,Weighted Average,Without Tax Incentives (¢/kwh),12.45
+NH,2029,Residential,With Tax Incentives (¢/kwh),23.35
+NH,2029,Residential,Without Tax Incentives (¢/kwh),23.59
+NH,2029,Residential,Change (¢/kwh),0.24
+NH,2029,Residential,% Change,1.0
+NH,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),17.79
+NH,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),18.04
+NH,2029,Commercial & Industrial,Change (¢/kwh),0.24
+NH,2029,Commercial & Industrial,% Change,1.4
+NH,2029,Weighted Average,With Tax Incentives (¢/kwh),20.43
+NH,2029,Weighted Average,Without Tax Incentives (¢/kwh),20.68
+ME,2029,Residential,With Tax Incentives (¢/kwh),24.17
+ME,2029,Residential,Without Tax Incentives (¢/kwh),24.38
+ME,2029,Residential,Change (¢/kwh),0.22
+ME,2029,Residential,% Change,0.9
+ME,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),15.94
+ME,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),16.16
+ME,2029,Commercial & Industrial,Change (¢/kwh),0.22
+ME,2029,Commercial & Industrial,% Change,1.4
+ME,2029,Weighted Average,With Tax Incentives (¢/kwh),19.56
+ME,2029,Weighted Average,Without Tax Incentives (¢/kwh),19.77
+US,2029,Residential,With Tax Incentives (¢/kwh),15.83
+US,2029,Residential,Without Tax Incentives (¢/kwh),16.97
+US,2029,Residential,Change (¢/kwh),1.15
+US,2029,Residential,% Change,7.3
+US,2029,Commercial & Industrial,With Tax Incentives (¢/kwh),10.87
+US,2029,Commercial & Industrial,Without Tax Incentives (¢/kwh),12.02
+US,2029,Commercial & Industrial,Change (¢/kwh),1.15
+US,2029,Commercial & Industrial,% Change,10.6
+US,2029,Weighted Average,With Tax Incentives (¢/kwh),12.51
+US,2029,Weighted Average,Without Tax Incentives (¢/kwh),13.66
