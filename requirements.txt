@@ -1,0 +1,9 @@
+pandas
+numpy
+folium
+geopandas
+flask
+ipywidgets
+gunicorn
+voila
+jupyter-server-proxy
